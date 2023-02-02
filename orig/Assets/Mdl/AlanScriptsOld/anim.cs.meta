@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 177bc4019513eb0419149385ca48bab5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PTorso: {instanceID: 0}
+  - PHead: {instanceID: 0}
+  - PNeck: {instanceID: 0}
+  - PLeftUpperArm: {instanceID: 0}
+  - PRightUpperArm: {instanceID: 0}
+  - PLeftLowerArm: {instanceID: 0}
+  - PRightLowerArm: {instanceID: 0}
+  - PLeftHand: {instanceID: 0}
+  - PRightHand: {instanceID: 0}
+  - PWaist: {instanceID: 0}
+  - PLeftUpperLeg: {instanceID: 0}
+  - PLeftLowerLeg: {instanceID: 0}
+  - PLeftFoot: {instanceID: 0}
+  - PRightUpperLeg: {instanceID: 0}
+  - PRightLowerLeg: {instanceID: 0}
+  - PRightFoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
